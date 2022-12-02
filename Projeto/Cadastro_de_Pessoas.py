@@ -26,10 +26,6 @@ while True:
     elif resposta == 3:
         cabecalho('Saindo do Sistema... Ate logo')
         break
-    elif resposta == 4:
-        cabecalho('Apagar registro')
-        numerorRegistro = leiaint('Numero Registro')
-        break
     else:
         print('\033[31mErro! Digite um opção valida.\033[m')
     sleep(2)
