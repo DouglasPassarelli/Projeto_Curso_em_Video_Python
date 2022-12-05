@@ -1,4 +1,4 @@
-from Projeto.listagem import *
+from listagem import *
 
 def arqexiste(nome):
     try:

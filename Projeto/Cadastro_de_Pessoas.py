@@ -5,7 +5,7 @@ Projeto de Cadastro de Pessoas simples pegando nome e idade e armazenando em um 
 '''
 
 
-from Projeto.listagem.arquivo import *
+from listagem.arquivo import *
 from time import sleep
 
 arq = 'cursoemvideo.txt'
